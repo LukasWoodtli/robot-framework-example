@@ -1,0 +1,79 @@
+{
+    "type": "object",
+    "properties": {
+        "sold": {
+            "type": "integer"
+        },
+        "placed": {
+            "type": "integer"
+        },
+        "string": {
+            "type": "integer"
+        },
+        "layka": {
+            "type": "integer"
+        },
+        "test22": {
+            "type": "integer"
+        },
+        "unavailable": {
+            "type": "integer"
+        },
+        "old": {
+            "type": "integer"
+        },
+        "pending": {
+            "type": "integer"
+        },
+        "available": {
+            "type": "integer"
+        },
+        "kot": {
+            "type": "integer"
+        },
+        "1": {
+            "type": "integer"
+        },
+        "fail": {
+            "type": "integer"
+        },
+        "swimming": {
+            "type": "integer"
+        },
+        "NA": {
+            "type": "integer"
+        },
+        "Sold": {
+            "type": "integer"
+        },
+        "availableXXX": {
+            "type": "integer"
+        },
+        "Available": {
+            "type": "integer"
+        },
+        "SD pending": {
+            "type": "integer"
+        }
+    },
+    "required": [
+        "1",
+        "Available",
+        "NA",
+        "SD pending",
+        "Sold",
+        "available",
+        "availableXXX",
+        "fail",
+        "kot",
+        "layka",
+        "old",
+        "pending",
+        "placed",
+        "sold",
+        "string",
+        "swimming",
+        "test22",
+        "unavailable"
+    ]
+}
