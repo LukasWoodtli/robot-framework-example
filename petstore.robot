@@ -17,6 +17,6 @@ Get the created config file
     # used for future testing (see `Expect response body`)
     Output schema         response body
     Object                    response body
-    Integer                    response body sold              52
-    Integer                    response body placed              2
+    Integer                    response body sold
+    Integer                    response body placed
     [Teardown]                Output        response body               ${OUTPUTDIR}/store_inventory.json
